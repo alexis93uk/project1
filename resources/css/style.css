@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+  margin:0;
+    padding:0;
+    border:0; 
+} 
+
+body {
+    font-family: "Roboto Mono", monospace;
+    color: #dac7b5;
+    margin:0;
+}
+
+h2 {
+    font-family: monospace; 
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight:bolder;
+    color: #4a4444;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 20px;
+}
+
+#menu {
+    font-size: 110%;
+    text-transform: uppercase;
+    list-style-type: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+#logo, #menu {
+    line-height: 60px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 25px;
+}
+
+#menu a {
+    text-decoration: none;
+    color:inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #917d65;
+}
+
+
+#hotel-main {
+    color: #686262;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url(background.jpg) no-repeat center center;
+    overflow: auto;
+}
+
+#background-text, #background-text h2 { 
+    color: #635454;
+}
+
+#background-text {
+    font-size:130%;
+    font-family: "Roboto Mono", monospace;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: bisque;
+
+    bottom: 300px;
+    right: 30px;
+
+    overflow: hidden;
+    position: absolute;
+
+}
+
+.button {
+    font-weight: bold;
+    font-size: 100%;
+    list-style-type: none;
+}
+
+#hotel-main{
+    height: 600px;
+}
+
+#loyalty {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+
+#discount {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    overflow: hidden;
+    position: relative;
+}
+
+#priority {
+    width: 33%;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+hr {
+    border-top: 1px solid #777777;
+    width: 100%;
+    margin: 5px 0; 
+}
+
+.loyalty-content {
+    width: 50%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    /*overflow: auto; */
+   
+}
+
+.discount-content {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+   
+}
+
+.discount-content h2 {
+    text-align: right;
+}
+
+#benefits {
+    margin: 30px 0;
+    text-align: center;
+    font-size: 300%;
+}
+
+#center-image {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 2px;
+    margin: 0 auto;
+}
+
+#center-image-jpg {
+    background: url(hotelparadise.jpg) no-repeat center center;
+    background-size: 500px;
+    width: 300px;
+    height: 300px;
+}
+
+footer {
+    margin-top:auto;
+    padding: 100px;   
+	padding-bottom: 25px;
+	text-align:center;
+    color: #2e2929;
+    font-weight: bold;
+    overflow: auto;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact li {
+    display:inline;
+    color: #2e2929;
+}
+
+#about-us {
+    color: rgb(95, 68, 68);
+    font-style: italic;
+    font-weight: bold;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    text-decoration:dashed;
+}
+
+body #book-form {
+    min-height: 50vh;
+    display:flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    background-color: #e9ddd2;
+    font-size: 120%;
+}
+
+#book-form {
+    text-align: center;
+    max-width: 100%;
+    width: 100%;
+}
+
+#book-form, form {
+    color: #3b5255;
+}
+
+#book-form, form .input-box {
+    border: 1px solid #4d3b3b;
+}
+
+#submit-box {
+    font-size: 120%;
+    border: 1px solid #dac7b5;
+}

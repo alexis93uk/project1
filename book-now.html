@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hote Alexander</title>
+    <link href="resources/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        <a href="index.html">
+            <h2 id="logo">Hotel Alexander</h2>
+        </a>
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="aboutus.html">About us</a>
+                </li>
+                <li>
+                    <a href="roomcategories.html">Room Categories</a>
+                </li>
+                <li>
+                    <a href="book-now.html">Make Inquiry</a>
+                </li>    
+                <li>
+                    <a href="index.html">Home</a>
+                </li>    
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div id="main-image"></div>
+        <div id="background-text">
+            <h2>MAKE YOUR STAY MEMORABLE</h2>
+            <h3>ENJOY UP TO 30% OFF. BOOK NOW!</h3>
+            <a href="book-now.html">BOOK NOW</a>
+        </div>
+    </section>
+    <section id="book-form">
+        <h2>Send us a Message</h2>
+        <form action="https://formsubmit.co/aleksandar.husagic.ns@gmail.com" method="POST">
+            <label><b>Make Inquiry</b></label>
+            <div class="input-box">
+                <label>Email Address</label>
+                <input type="email" name="email" placeholder="Email Address" required>
+            </div>
+
+            <div class="input-box">
+                <label>Full Name</label>
+                <input type="text" name="Full Name" placeholder="Full Name" required>
+            </div>
+
+            <div class="input-box">
+                <label>Arrival:</label>
+                <input type="date" name="arrival">
+                <label>Departure:</label>
+                <input type="date" name="departure">
+            </div>
+
+            <div class="input-box">
+                <label for="choose-category">Room Category</label>
+                <select name="choice" id="choose-category">
+                    <option value="executive-double-room">Executive Double Room</option>
+                    <option value="executive-twin-room">Executive Twin Room</option>
+                    <option value="executive-studio">Executive Studio</option>
+                    <option value="one-bedroom-apartment">One Bedroom Apartment</option>
+                </select>
+            </div>    
+
+            <div class="input-box">
+                <label><b>Provide more information(if available):</b></label>
+                <textarea id="feedback" cols="50" rows="10" name="More-information" placeholder=""></textarea>
+              </div>
+        
+            <input id="submit-box" type="submit" value="Submit request">
+       </form>
+         
+    </section>
+    <footer>
+        <ul class="contact">
+            <li>Find us on: </li>
+            <li><a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a></li>
+            <li><a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a></li>
+            <li><a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a></li>
+        </ul> 
+        <p>Copyright © Hotel Alexander 2024</p> 
+    </footer>
+</body>
+</html>
