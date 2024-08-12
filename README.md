@@ -38,6 +38,9 @@ The "Room Categories" page is static with options for users to see different roo
 First, the user will see when opening this website is the main page user can navigate themselves further. 
 User has option to go "make inquiry" page where they can send input to the hotel. 
 ![image](https://github.com/user-attachments/assets/9392cb66-afea-4445-8a19-e8077de20b9e)
+In the next step, the user must input all the relevant details, and press submit, as per below example: 
+![image](https://github.com/user-attachments/assets/01b22d39-2dd6-41d9-9c45-05cd2de66c2c)
+Then, hotel will receive completed form with all the details, and reply back to their email regarding their query. 
 
 
 
