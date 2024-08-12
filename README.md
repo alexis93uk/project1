@@ -2,7 +2,7 @@
 
 ## Welcome to "Hotel Alexander" webpage.
 
-### This project is about hotel "Alexander" webpage, designed to help people inquire about future bookings. The Webpage is divided into 4 pages: "Home", "Make inquiry", "Room Categories", and "About Us".
+### This project is about hotel "Alexander" webpage, designed to help people inquire about future bookings. The web page is divided into 4 pages: "Home", "Make inquiry", "Room Categories", and "About Us".
 
 "Home" page shows the benefits of staying in our hotel and what are the features or any other specialities. On the right side of the background picture, there is a pop-up message where you can click on "BOOK NOW", and it will automatically lead you to the "Make inquiry" page.
 
