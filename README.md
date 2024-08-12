@@ -33,5 +33,11 @@ The "Room Categories" page is static with options for users to see different roo
 ![image](https://github.com/user-attachments/assets/f07a692d-f17d-4e20-9a17-c52b32324676)
 
 
+# User Stories
+
+First, the user will see when opening this website is the main page user can navigate themselves further. 
+User has option to go "make inquiry" page where they can send input to the hotel. 
+![image](https://github.com/user-attachments/assets/9392cb66-afea-4445-8a19-e8077de20b9e)
+
 
 
