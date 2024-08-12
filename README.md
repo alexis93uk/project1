@@ -12,24 +12,24 @@ The "Room Categories" page is static with options for users to see different roo
 
 "About us" page is just a simple message regarding the hotel and their features.
 
-## Validation for HTML & CSS code
+### Validation for HTML & CSS code
 
-# HTML
-index.html validation results: 
+## HTML
+# index.html validation results: 
 ![image](https://github.com/user-attachments/assets/711b8339-1330-4885-ae0a-5cfa0e96c665)
 
-book-now.html validation result: 
+# book-now.html validation result: 
 ![image](https://github.com/user-attachments/assets/f528778a-4609-40d5-90b9-b2d35e089ff6)
 
-roomcategories.html validation results: 
+# roomcategories.html validation results: 
 ![image](https://github.com/user-attachments/assets/7cf7eef4-50b8-414b-9551-1f514c2cdd22)
 
-aboutus.html validation results:
+# aboutus.html validation results:
 ![image](https://github.com/user-attachments/assets/221057d6-69ef-40e1-969c-8ffba357faad)
 
-# CSS
+## CSS
 
-style.css (jigsaw) validator results: 
+# style.css (jigsaw) validator results: 
 ![image](https://github.com/user-attachments/assets/f07a692d-f17d-4e20-9a17-c52b32324676)
 
 
