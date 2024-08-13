@@ -45,6 +45,9 @@ Then, hotel will receive completed form with all the details, and reply back to 
 ### Users can visit "Room Categories" page, where they can have an idea of what kind of rooms is a hotel offering before sending inquiry about their future reservation: 
 ![image](https://github.com/user-attachments/assets/b871be84-7918-41a4-8858-4a604b27776c)
 
+### In the last section of the website "About Us", user can see more information about the hotel, their location, facilities, etc. This is to be expended as the hotel reputation is growing. 
+
+![image](https://github.com/user-attachments/assets/d3b77a31-b4e2-415a-b447-203f5e471c6e)
 
 
 
