@@ -57,6 +57,8 @@ Then, hotel will receive completed form with all the details, and reply back to 
 
 As you can see in the next screenshot below, I've got all the necessary details from the User, so I can contact the user back to their email address with information. 
 
+![image](https://github.com/user-attachments/assets/b7caf86d-a00b-4ee4-934c-1033af245f1d)
+
 
 
 
