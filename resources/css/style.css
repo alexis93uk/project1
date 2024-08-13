@@ -1,5 +1,7 @@
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+/* Global Styles */
 *{
   margin:0;
     padding:0;
@@ -20,6 +22,7 @@ h2 {
     color: #4a4444;
 }
 
+/* Media Queries for Responsiveness */
 #logo {
     float: left;
     font-size: 280%;
@@ -169,19 +172,23 @@ hr {
 }
 
 #center-image-jpg {
-    background: url(hotelparadise.jpg) no-repeat center center;
+    background: URL(hotelparadise.jpg) no-repeat center center;
     background-size: 500px;
     width: 300px;
     height: 300px;
 }
 
 footer {
-    margin-top:auto;
-    padding: 100px;   
-	padding-bottom: 25px;
-	text-align:center;
+   margin-top: auto;
+    padding: 50px 20px; /* Adjusted padding for better spacing */
+    text-align: center;
     color: #2e2929;
     font-weight: bold;
+    background-color: #f8f8f8; /* Added background color */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     overflow: auto;
 }
 
@@ -190,22 +197,22 @@ footer {
 }
 
 .contact li {
-    display:inline;
+    display: inline;
     color: #2e2929;
 }
 
 #about-us {
-    color: rgb(95, 68, 68);
+    color: RGB(95, 68, 68);
     font-style: italic;
     font-weight: bold;
     padding: 30px 30px 30px 30px;
     text-align: center;
-    text-decoration:dashed;
+    text-decoration: dashed;
 }
 
 body #book-form {
     min-height: 50vh;
-    display:flex;
+    display: flex;
     color: white;
     align-items: center;
     justify-content: center;
