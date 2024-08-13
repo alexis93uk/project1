@@ -49,5 +49,14 @@ Then, hotel will receive completed form with all the details, and reply back to 
 
 ![image](https://github.com/user-attachments/assets/d3b77a31-b4e2-415a-b447-203f5e471c6e)
 
+# Testing and Functionality of the Website:
+
+## The main part of the website that needed testing of its functionality is "Make Inquiry" form. As per below example, we want to make sure I'll receive user's submitted form via email. 
+
+![image](https://github.com/user-attachments/assets/82304c18-c660-44a4-8788-1f1e0d9f7a15)
+
+As you can see in the next screenshot below, I've got all the necessary details from the User, so I can contact the user back to their email address with information. 
+
+
 
 
