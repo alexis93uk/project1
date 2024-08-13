@@ -42,5 +42,9 @@ In the next step, the user must input all the relevant details, and press submit
 ![image](https://github.com/user-attachments/assets/01b22d39-2dd6-41d9-9c45-05cd2de66c2c)
 Then, hotel will receive completed form with all the details, and reply back to their email regarding their query. 
 
+### Users can visit "Room Categories" page, where they can have an idea of what kind of rooms is a hotel offering before sending inquiry about their future reservation: 
+![image](https://github.com/user-attachments/assets/b871be84-7918-41a4-8858-4a604b27776c)
+
+
 
 
