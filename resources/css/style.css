@@ -45,7 +45,8 @@ h2 {
 }
 
 .popup-content p {
-  color: #dd8e7e;
+  color: blue;
+  font-size: 18px;
 }
 
 /* close button */
