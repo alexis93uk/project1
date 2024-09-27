@@ -44,6 +44,10 @@ h2 {
   text-align: center;
 }
 
+.popup-content p {
+  color: #dd8e7e;
+}
+
 /* close button */
 .close-btn {
   position: absolute;
