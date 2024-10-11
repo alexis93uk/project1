@@ -244,7 +244,7 @@ h2 {
     right: 30px;
 
     overflow: hidden;
-    position: absolute;
+    position: fixed;
 
 }
 
@@ -334,7 +334,7 @@ hr {
 }
 
 footer {
-   margin-top: auto;
+    margin-top: auto;
     padding: 50px 20px; /* Adjusted padding for better spacing */
     text-align: center;
     color: #2e2929;
