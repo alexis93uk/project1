@@ -64,8 +64,40 @@
     width: 90%  
   }
 
+}
 
-  
+@media only screen and (max-width: 480px) {
+
+  h2 {
+    font-size: 120%;
+    letter-spacing: 1px;
+  }
+
+  #menu {
+    font-size: 90%;
+    letter-spacing: 1px;
+  }
+
+  .popup-content {
+    width: 90%;
+    font-size: 90%;
+  }
+
+  .open-popup-btn {
+    font-size: 90%;
+    padding: 8px 16px; 
+  }
+
+  #submit-box {
+    font-size: 110%;
+  }
+}
+
+
+
+
+
+
 /* Global Styles */
 *{
   margin:0;
