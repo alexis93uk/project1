@@ -60,5 +60,58 @@ As you can see in the next screenshot below, I've got all the necessary details 
 ![image](https://github.com/user-attachments/assets/b7caf86d-a00b-4ee4-934c-1033af245f1d)
 
 
+# Manual Testing 
+
+## Functionality Testing 
+
+### Navigation links: 
+
+- All the links (header, footer, navigation menu) are functional and easy for the user to see & access to it.
+- I verified all internal and external links, and all of them are directing you to the correct page.
+- Links from the footer for social networks, such as Twitter, Facebook & Instagram and working accordingly. When you click on, for example facebook link it will pop up another tab.
+
+### Forms: 
+
+- One contact form that's implemented is on 'Make inquire' page, where users can contact us for more information about the service/product.
+- It's easy to fill in the details, one of the simplest forms.
+- Form can be submitted functionally, however it may take up to 30-45 seconds to be completed.
+- Also, the form cannot be submitted if not all the required details are filled out. It will pop up a message where it says 'Please fill in this field'.
+- Only email and names are required for the form to be sent. I would still improve this form, and make sure that dates for future booking should be a requirement as well. Otherwise, the business will receive just a blank message from a user with not much information.
+
+### Interactive elements:
+
+- There is 'Open Welcome message' button, where when the user clicks on it, it will pop up a message on the middle of the screen.
+- Regarding dropdowns/Menus, the user can only control that action on 'make inquiry' page to choose the room category when filling in the form.
+- Also users can choose the dates from the form, either putting details manually or from the dropdown calendar.
+
+### Content loading: 
+
+- The website itself works normally, and users can switch from one page to another smoothly without experiencing issues.
+- The only exception I'd mention is waiting longer for the form to be submitted.
+
+## Usability Testing 
+
+# Ease of Navigation: 
+
+- Although this website needs some improvements in the future, at the moment users can easily navigate the layout and important key elements of the website.
+- The navigation bar is easy to locate because the website itself is very simple with few much actions to be done there. 'Home', 'Make Inquiry', 'Room Categories', and 'About Us' are the only pages users can visit at the moment. (Future features may be added in the future)
+
+# Readability:
+- Fonts are easy to read with appropriate size, colour contrast and style. 
+- Contrast between font colour and background is reasonable with reading ease.
+
+# Error Messages: 
+- No error message found on this website with the exception of sending form(Sometimes if takes more time, an error might appear because of low responsiveness.
+
+# User Flow: 
+
+- Users can easily navigate between pages.
+- Website guide users clearly to the main features(contacting the hotel, sending the contact form, etc.)
+
+
+## Responsiveness Testing 
+
+# Testing on different screen sizes: 
+- This website for now is fully functional only for desktops and laptops.
 
 
