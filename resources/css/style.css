@@ -222,11 +222,6 @@ h2 {
     overflow: auto;
 }
 
-section, div, #background-text {
-    overflow: hidden;
-    position: fixed;
-}
-
 #background-text, #background-text h2 { 
     color: #635454;
 }
