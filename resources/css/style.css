@@ -1,6 +1,71 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
+@media only screen and  (max-width: 768px) {
+  #logo {
+    font-size: 200%;
+    text-align: center; 
+    margin: 0 auto;
+    float: none;
+}
+
+  #menu {
+    display: block;
+    text-align: center;
+    padding: 0;
+  }
+
+  #menu li {
+    float: none;
+    margin: 10px 0;
+  }
+
+  #main-image {
+    height: auto;
+    background-size: cover;
+  }
+
+  #background-text {
+    width: 90%;
+    height: auto;
+    font-size: 100%;
+    padding: 15px;
+    position: relative;
+    bottom: auto;
+    right: auto;
+    margin: 10px auto;
+  }
+
+  #loyalty, #discount, #priority {
+    width: 100%;
+    float: none;
+    padding: 10px;
+  }
+
+  .loyalty-content, . discount-content {
+    width: 100%;
+    text-align: center;
+    float: none;
+  }
+
+  #center-image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+
+  footer {
+    padding: 20px;
+    font-size:90%
+  }
+
+  #book-form {
+    padding: 20px;
+    width: 90%  
+  }
+
+
+  
 /* Global Styles */
 *{
   margin:0;
